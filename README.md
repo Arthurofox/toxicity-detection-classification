@@ -37,7 +37,7 @@ toxicity-detection/
 
 ```bash
 # clone repo
-git clone https://github.com/yourusername/toxicity-detection-classification.git
+git clone https://github.com/Arthurofox/toxicity-detection-classification.git
 cd toxicity-detection-classification
 
 # set up environment
