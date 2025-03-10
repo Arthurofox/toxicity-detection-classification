@@ -2,9 +2,7 @@
 
 # first part : data analysis and pre-processing
 
-(venv) arthursavary@Arthurs-MacBook-Pro toxicity-detection-classification % cd src 
-(venv) arthursavary@Arthurs-MacBook-Pro src % python3 pre_analysis.py 
-Error: File data/train.csv not found. Please update the path.
+''''
 (venv) arthursavary@Arthurs-MacBook-Pro src % python3 pre_analysis.py
 Loading datasets...
 Combining datasets for analysis...
@@ -395,4 +393,5 @@ toxic
 Name: word_count, dtype: float64
 
 Analysis complete! Plots saved to the 'plots' directory.
-(venv) arthursavary@Arthurs-MacBook-Pro src % 
+
+''''
