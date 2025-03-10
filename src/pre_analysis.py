@@ -293,9 +293,9 @@ def merge_test_with_labels(test_df, test_labels_df):
 def main():
     """Main function to run all analyses"""
     # Data paths
-    train_path = "data/train.csv"
-    test_path = "data/test.csv"
-    test_labels_path = "data/test_labels.csv"
+    train_path = "../data/train.csv"
+    test_path = "../data/test.csv"
+    test_labels_path = "../data/test_labels.csv"
     
     try:
         # Check if files exist
