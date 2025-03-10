@@ -61,6 +61,3 @@ python src/utils/download_data.py
 - [ ] test obfuscation resilience
 - [ ] api deployment
 - [ ] technical report
-
-## license
-mit
